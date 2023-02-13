@@ -1,5 +1,0 @@
-npm install request 
-npm install promise
-npm install parser
-npm install await
-npm install yargs
